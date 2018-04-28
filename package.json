@@ -1,0 +1,10 @@
+{
+  "name": "simple-iota",
+  "version": "0.0.0",
+  "description": "Simple function to return an incremented int, inspired by golang iota",
+  "main": "index.js",
+  "repository": "https://github.com/signaes/simple-iota",
+  "author": "Thiago Oliveira",
+  "license": "MIT",
+  "private": false
+}
